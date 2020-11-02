@@ -25,5 +25,5 @@ img {
 }
 /* Change the font-family of your list */
 ul, li {
-  align-items: center;
+  font-family: cursive;
 }
